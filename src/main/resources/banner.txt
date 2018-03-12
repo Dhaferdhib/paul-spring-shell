@@ -1,0 +1,10 @@
+.______      ___      __    __   __
+|   _  \    /   \    |  |  |  | |  |
+|  |_)  |  /  ^  \   |  |  |  | |  |
+|   ___/  /  /_\  \  |  |  |  | |  |
+|  |     /  _____  \ |  `--'  | |  `----.
+| _|    /__/     \__\ \______/  |_______|
+
+${application.title} v${application.version}: The simple stupid CLI bookmark manager!
+Built with Spring Shell${spring-boot.formatted-version}
+Powered by Spring Boot ${spring-boot.formatted-version}
