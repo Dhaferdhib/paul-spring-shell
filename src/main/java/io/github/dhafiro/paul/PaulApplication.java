@@ -2,8 +2,11 @@ package io.github.dhafiro.paul;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
+@EnableJpaAuditing
+
 public class PaulApplication {
 
 	public static void main(String[] args) {
