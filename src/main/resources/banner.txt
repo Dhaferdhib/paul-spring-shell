@@ -5,6 +5,6 @@
 |  |     /  _____  \ |  `--'  | |  `----.
 | _|    /__/     \__\ \______/  |_______|
 
-${application.title} v${application.version}: The simple stupid CLI bookmark manager!
+${application.title} v${application.version}: The simple stupid CLI task manager!
 Built with Spring Shell${spring-boot.formatted-version}
 Powered by Spring Boot ${spring-boot.formatted-version}
